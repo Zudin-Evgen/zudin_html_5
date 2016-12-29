@@ -1,0 +1,39 @@
+/*--------------------------MAIN SETTINGS----------------------------------*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrap {
+    width: 500px;
+    margin: auto;
+    border: 1px solid grey;
+}
+/*--------------------------MAIN SETTINGS----------------------------------*/
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000;
+}
+
+.black {
+    background: #000;
+}
+
+.white {
+    background: #fff;
+}
+
+.red {
+    background: #f00;
+}
+
+.yellow {
+    background: #ff0;
+}
+
+.blue {
+    background: #00f;
+}
